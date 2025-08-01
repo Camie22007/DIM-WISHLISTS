@@ -1,0 +1,176 @@
+// Unworthy
+//notes: S tier, Rank 1, BiS Arc Scout, Rank in Arc Scout: 1
+dimwishlist:item=2226158470&perks=4024064276,3730746196,100363926
+
+// Aisha's Embrace
+//notes: S tier, Rank 2, BiS Void Scout, Rank in Void Scout: 1
+dimwishlist:item=892093767&perks=2902511468,4215153072,2647129222,2869740284,2438554623,2317660823
+dimwishlist:item=1501766672&perks=2902511468,4215153072,2647129222,2869740284,2438554623,2317660823
+
+// Trustee
+//notes: S tier, Rank 3, BiS Solar Scout, Rank in Solar Scout: 1
+dimwishlist:item=1392919471&perks=4215153072,2215341525,2241369047,3177387065
+
+// Vouchsafe
+//notes: S tier, Rank 4, Rank in Void Scout: 2
+dimwishlist:item=355922321&perks=3654471391,4215153072,2869740284,77836843,2666547425,2909210985
+
+// Hung Jury SR4
+//notes: A tier, Rank 5, BiS Kinetic Scout, Rank in Kinetic Scout: 1
+dimwishlist:item=1453235079&perks=1394630221,2647129222,2587742249,4024064276,2666547425,2294405927,3802814258
+dimwishlist:item=56761761&perks=1394630221,2647129222,2587742249,4024064276,2666547425,2294405927,3802814258
+dimwishlist:item=681067419&perks=1394630221,2647129222,2587742249,4024064276,2666547425,2294405927,3802814258
+
+// Vision of Confluence
+//notes: A tier, Rank 6, Rank in Solar Scout: 2
+dimwishlist:item=1355744825&perks=2241369047,2627960871,3893556999,4024064276,2666547425,3950301542,1602529400
+dimwishlist:item=1688544136&perks=2241369047,2627960871,3893556999,4024064276,2666547425,3950301542,1602529400
+
+// Randy's Throwing Knife
+//notes: A tier, Rank 7, Rank in Kinetic Scout: 2
+dimwishlist:item=2003638177&perks=4215153072,2807542359,1394630221,2630438643
+
+// Patron of Lost Causes
+//notes: A tier, Rank 8, Rank in Kinetic Scout: 3
+dimwishlist:item=435002917&perks=4215153072,2979532701,1394630221,2666547425,13418792
+
+// Nature Reclaimed
+//notes: A tier, Rank 9, Rank in Solar Scout: 3
+dimwishlist:item=878104499&perks=2627960871,4215153072,2647129222,2241369047,2666547425,2625304155
+
+// Tarnished Mettle
+//notes: A tier, Rank 10, Rank in Arc Scout: 2
+dimwishlist:item=894815256&perks=4215153072,2647129222,4120345915,3730746196,2666547425,4161687735
+
+// Doom of Chelchis
+//notes: A tier, Rank 11, Rank in Void Scout: 3
+dimwishlist:item=1937552980&perks=4024064276,2666547425,3950301542,2294405927,77836843,2309764104
+dimwishlist:item=1642864320&perks=4024064276,2666547425,3950301542,2294405927,77836843,2309764104
+
+// Timeworn Wayfarer
+//notes: B tier, Rank 12, Rank in Solar Scout: 4
+dimwishlist:item=1058098236&perks=2627960871,2647129222,3041644106,2241369047,3591985395
+
+// Sublimation
+//notes: B tier, Rank 13, Rank in Arc Scout: 3
+dimwishlist:item=1674692344&perks=2202096694,2231115767,2647129222,3730746196,2666547425,2641086187,2635840874
+
+// Imperative
+//notes: B tier, Rank 14, Rank in Kinetic Scout: 4
+dimwishlist:item=2045811635&perks=4120345915,4215153072,1394630221,2666547425,2467455218
+
+// Brya's Love
+//notes: B tier, Rank 15, Rank in Void Scout: 4
+dimwishlist:item=1317504516&perks=1371305600,2647129222,4215153072,2869740284,2666547425,3517424856
+
+// Transfiguration
+//notes: B tier, Rank 16, Rank in Kinetic Scout: 5
+dimwishlist:item=824826593&perks=4120345915,4215153072,3893556999,1394630221,2666547425,2120462471
+
+// Nameless Midnight
+//notes: B tier, Rank 17, Rank in Kinetic Scout: 6
+dimwishlist:item=1960218487&perks=2558171366,2461744634,1394630221,2666547425,3709224
+
+// Jararaca-3SR
+//notes: B tier, Rank 18, BiS Stasis Scout, Rank in Stasis Scout: 1
+dimwishlist:item=1851521408&perks=4215153072,2609784129,1038616807
+
+// Red Tape
+//notes: B tier, Rank 19, Rank in Stasis Scout: 2
+dimwishlist:item=3423493037&perks=2178622319,4120345915,1604251271,2609784129,2666547425,3526300239
+
+// Jurisprudent
+//notes: B tier, Rank 20, Rank in Stasis Scout: 3
+dimwishlist:item=4090134063&perks=1604251271,4215153072,2609784129,2666547425,3972015991
+
+// The Prophet
+//notes: B tier, Rank 21, Rank in Stasis Scout: 4
+dimwishlist:item=1968410628&perks=4120345915,4215153072,2609784129,2666547425,3388322846
+dimwishlist:item=3019024381&perks=4120345915,4215153072,2609784129,2666547425,3388322846
+
+// Perses-D
+//notes: B tier, Rank 22, Rank in Stasis Scout: 5
+dimwishlist:item=1444163150&perks=4215153072,2647129222,2609784129,2666547425,3665854044
+
+// Fang of Ir Yut
+//notes: C tier, Rank 23, BiS Strand Scout, Rank in Strand Scout: 1
+dimwishlist:item=1695503983&perks=4215153072,2647129222,3893556999,1706767700,1994003383
+dimwishlist:item=128782990&perks=4215153072,2647129222,3893556999,1706767700,1994003383
+
+// Staccato-46
+//notes: C tier, Rank 24, Rank in Solar Scout: 5
+dimwishlist:item=38855301&perks=2558171366,2647129222,2241369047,77836843,2666547425,2198256770
+
+// Long Arm
+//notes: C tier, Rank 25, Rank in Arc Scout: 4
+dimwishlist:item=14929251&perks=4215153072,3041644106,77836843,2666547425,3457651812,2754613917
+dimwishlist:item=4239378215&perks=4215153072,3041644106,77836843,2666547425,3457651812,2754613917
+
+// Live Fire
+//notes: C tier, Rank 26, Rank in Stasis Scout: 6
+dimwishlist:item=3612142623&perks=4215153072,1604251271,2609784129,2647129222,343998847
+
+// Admetus-D
+//notes: C tier, Rank 27, Rank in Void Scout: 5
+dimwishlist:item=3776430252&perks=3654471391,4215153072,2902511468,3950301542,3665854044
+
+// Servant Leader
+//notes: C tier, Rank 28, Rank in Kinetic Scout: 7
+dimwishlist:item=1107446438&perks=4215153072,2647129222,3950301542,343998847
+
+// Taraxippos
+//notes: C tier, Rank 29, Rank in Strand Scout: 2
+dimwishlist:item=2054486324&perks=2587742249,2666547425,1706767700,3645229233
+
+// The Guiding Sight
+//notes: D tier, Rank 30, Rank in Strand Scout: 3
+dimwishlist:item=1641430382&perks=2587742249,4120345915,2930199777,1706767700,2625304155
+
+// Glissando-47
+//notes: D tier, Rank 31, Rank in Strand Scout: 4
+dimwishlist:item=2073348400&perks=2215341525,2807542359,1706767700,2198256770
+
+// Pointed Inquiry
+//notes: D tier, Rank 32, Rank in Void Scout: 6
+dimwishlist:item=1807168940&perks=3879919836,2647129222,77836843,3109972885
+
+// Night Watch
+//notes: D tier, Rank 33, Rank in Kinetic Scout: 8
+dimwishlist:item=3504336176&perks=4215153072,2666547425
+
+// Tears of Contrition
+//notes: E tier, Rank 34, Rank in Kinetic Scout: 9
+dimwishlist:item=1366394399&perks=3527390035,2148166320,2666547425,3093233047
+
+// Talons of the Eagle
+//notes: E tier, Rank 35, Rank in Kinetic Scout: 10
+dimwishlist:item=1982711279&perks=2558171366,2666547425
+
+// Contingency Plan
+//notes: E tier, Rank 36, Rank in Arc Scout: 5
+dimwishlist:item=577528837&perks=2558171366,3950301542
+
+// Royal Chase
+//notes: E tier, Rank 37, Rank in Void Scout: 7
+dimwishlist:item=2776503072&perks=3527390035,2212600338,77836843
+
+// Eternal Blazon
+//notes: E tier, Rank 38, Rank in Arc Scout: 6
+dimwishlist:item=1927800278&perks=4215153072,2750005406
+
+// Adverse Possession IX
+//notes: E tier, Rank 39, Rank in Arc Scout: 7
+dimwishlist:item=1890332078&perks=2202096694,3950301542,2198256770
+
+// Last Rite
+//notes: F tier, Rank 40, Rank in Kinetic Scout: 11
+dimwishlist:item=542573208&perks=2215341525,2461744634,2341071353,3388322846
+
+// Pleiades Corrector
+//notes: F tier, Rank 41, Rank in Solar Scout: 6
+dimwishlist:item=1342668638&perks=2558171366,4120345915,4030746763
+
+// The Scholar
+//notes: F tier, Rank 42, Rank in Kinetic Scout: 12
+dimwishlist:item=2478792241&perks=2652852405,2691069460
+dimwishlist:item=2386979999&perks=2652852405,2691069460
